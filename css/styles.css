@@ -24,9 +24,6 @@ p {
     
 }
 
-.steps {
-    padding: 20px 20px;
-}
 
 li {
     font-family: fantasy;
@@ -34,7 +31,19 @@ li {
     list-style-position: inside;
 }
 
-ul {
+ul{
     display: inline-block;
+}
+
+ol {
+    display: inline-block;
+}
+
+.container {
+    display: inline-block;
+}
+
+.steps {
+    padding-left: 20px;
 }
 
